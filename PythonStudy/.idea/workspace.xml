@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cb91ce6-6132-45e5-85fb-2c7c805f7176" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/adventurerGrouping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/combinations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/permutations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prefixSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adventurerGrouping.py" beforeDir="false" afterPath="$PROJECT_DIR$/adventurerGrouping.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +32,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.adventurerGrouping.executor": "Run",
+    "Python.adventurerGrouping.executor": "Debug",
     "Python.combinations.executor": "Run",
     "Python.main.executor": "Run",
     "Python.permutations.executor": "Run",
