@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cb91ce6-6132-45e5-85fb-2c7c805f7176" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/twoPointers2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adventurerGrouping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/combinations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/permutations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prefixSum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.adventurerGrouping.executor": "Run",
+    "Python.combinations.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.permutations.executor": "Run",
+    "Python.prefixSum.executor": "Run",
     "Python.toPointer.executor": "Run",
     "Python.twoPointers.executor": "Run",
     "Python.twoPointers2.executor": "Run",
@@ -50,6 +54,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\AlgorithmJourney\PythonStudy" />
       <recent name="C:\AlgorithmJourney\pythonProject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\AlgorithmJourney\PythonStudy" />
     </key>
   </component>
   <component name="RunManager">
