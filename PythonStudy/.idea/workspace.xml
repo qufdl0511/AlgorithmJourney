@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cb91ce6-6132-45e5-85fb-2c7c805f7176" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/multiplyOrAdd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zeroOrOneFlip.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +42,7 @@
     "Python.toPointer.executor": "Run",
     "Python.twoPointers.executor": "Run",
     "Python.twoPointers2.executor": "Run",
+    "Python.zeroOrOneFlip.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/AlgorithmJourney/PythonStudy",
