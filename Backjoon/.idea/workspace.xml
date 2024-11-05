@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cb91ce6-6132-45e5-85fb-2c7c805f7176" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/15552. 빠른 A+B/빠른 A+B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonStudy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonStudy/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,14 +48,16 @@
     "Python.twoPointers2.executor": "Run",
     "Python.zeroOrOneFlip.executor": "Run",
     "Python.꼬마 정민.executor": "Run",
+    "Python.빠른 A+B.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/AlgorithmJourney/PythonStudy",
+    "last_opened_file_path": "C:/AlgorithmJourney/Backjoon/15552. 빠른 A+B",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\AlgorithmJourney\Backjoon" />
       <recent name="C:\AlgorithmJourney\PythonStudy" />
       <recent name="C:\AlgorithmJourney\pythonProject" />
     </key>
