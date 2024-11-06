@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cb91ce6-6132-45e5-85fb-2c7c805f7176" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/15552. 빠른 A+B/빠른 A+B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25304. 영수증/영수증.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonStudy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonStudy/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -49,9 +49,10 @@
     "Python.zeroOrOneFlip.executor": "Run",
     "Python.꼬마 정민.executor": "Run",
     "Python.빠른 A+B.executor": "Run",
+    "Python.영수증.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/AlgorithmJourney/Backjoon/15552. 빠른 A+B",
+    "last_opened_file_path": "C:/AlgorithmJourney/Backjoon",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
