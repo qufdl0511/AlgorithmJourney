@@ -11,7 +11,7 @@ print(result)
 import sys
 
 n = int(sys.stdin.readline())
-result = n * (n + 1) // 2  # 정수 나눗셈
+result = n * (n + 1) // 2
 
 # 1부터 N까지의 합
 print(result)
