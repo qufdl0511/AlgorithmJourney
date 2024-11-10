@@ -1,23 +1,19 @@
 import sys
-# 행렬의 크기 N과 M
-N, M = map(int, sys.stdin.readline().split())
+# 단어 입력
+word = sys.stdin.readline().rstrip()
 
-# 행렬 A와 B 선언
-A, B = [], []
+# 팰린드롬 여부를 확인하는 조건
+is_palindrome = True
+length = len(word) // 2
 
-# 행렬 A값 입력
-for i in range(N):
-    a = list(map(int, sys.stdin.readline().split()))
-    A.append(a)
+# 맨 앞과 맨 뒤에서부터 비교하며 팰린드롬 확인
+for i in range(length):
+    if word[i] != word[-(i+1)]:
+        is_palindrome = False
+        break
 
-# 행렬 B값 입력
-for i in range(N):
-    b = list(map(int, sys.stdin.readline().split()))
-    B.append(b)
-
-# 행렬 A와 B의 합 출력
-for i in range(N):
-    for j in range(M):
-        result = A[i][j] + B[i][j]
-        print(result, end=' ')
-    print()
+# 결과 출력
+if is_palindrome:
+    print(1)
+else:
+    print(0)
