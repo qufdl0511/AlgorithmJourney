@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cb91ce6-6132-45e5-85fb-2c7c805f7176" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/2587. 대표값2s/대표값2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2798. 블랙잭/블랙잭.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2231. 분해합/분해합.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,36 +31,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.adventurerGrouping.executor&quot;: &quot;Run&quot;,
-    &quot;Python.coinSequence.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.combinations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.multiplyOrAdd.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.passwordColletion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.permutations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prefixSum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.primeNumbersInRange.executor&quot;: &quot;Run&quot;,
-    &quot;Python.toPointer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.twoPointers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.twoPointers2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zeroOrOneFlip.executor&quot;: &quot;Run&quot;,
-    &quot;Python.꼬마 정민.executor&quot;: &quot;Run&quot;,
-    &quot;Python.단어의 개수.executor&quot;: &quot;Run&quot;,
-    &quot;Python.대표값2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.빠른 A+B.executor&quot;: &quot;Run&quot;,
-    &quot;Python.수 정렬하기.executor&quot;: &quot;Run&quot;,
-    &quot;Python.영수증.executor&quot;: &quot;Run&quot;,
-    &quot;Python.최소, 최대.executor&quot;: &quot;Run&quot;,
-    &quot;Python.합.executor&quot;: &quot;Run&quot;,
-    &quot;Python.행렬 덧셈.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/AlgorithmJourney/Backjoon&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.adventurerGrouping.executor": "Run",
+    "Python.coinSequence.executor": "Debug",
+    "Python.combinations.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.multiplyOrAdd.executor": "Debug",
+    "Python.passwordColletion.executor": "Run",
+    "Python.permutations.executor": "Run",
+    "Python.prefixSum.executor": "Run",
+    "Python.primeNumbersInRange.executor": "Run",
+    "Python.toPointer.executor": "Run",
+    "Python.twoPointers.executor": "Run",
+    "Python.twoPointers2.executor": "Run",
+    "Python.zeroOrOneFlip.executor": "Run",
+    "Python.꼬마 정민.executor": "Run",
+    "Python.단어의 개수.executor": "Run",
+    "Python.대표값2.executor": "Run",
+    "Python.분해합.executor": "Run",
+    "Python.빠른 A+B.executor": "Run",
+    "Python.수 정렬하기.executor": "Run",
+    "Python.영수증.executor": "Run",
+    "Python.최소, 최대.executor": "Run",
+    "Python.합.executor": "Run",
+    "Python.행렬 덧셈.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/AlgorithmJourney/Backjoon",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\AlgorithmJourney\Backjoon" />
