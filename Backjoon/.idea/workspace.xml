@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cb91ce6-6132-45e5-85fb-2c7c805f7176" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/10828. 스택/스택.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18258. 큐 2/큐 2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +55,7 @@
     "Python.스택.executor": "Run",
     "Python.영수증.executor": "Run",
     "Python.최소, 최대.executor": "Run",
+    "Python.큐 2.executor": "Run",
     "Python.합.executor": "Run",
     "Python.행렬 덧셈.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
