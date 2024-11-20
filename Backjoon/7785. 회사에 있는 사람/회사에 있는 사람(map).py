@@ -1,28 +1,20 @@
 import sys
+# 1. 출입 기록의 개수를 입력 받습니다.
+N = int(sys.stdin.readline())
+# 2. dict를 정의합니다.
+my_dict = {}
 
-# 출입 기록의 수 입력
-n = int(sys.stdin.readline().strip())
+for _ in range(N):
+    # 3. 주어지는 출입 기록을 사람 이름과 출입 상태로 구분합니다.
+    name, state = sys.stdin.readline().split()
+    # 4. 출입 상태에 따라 dict에 add & remove를 합니다.
+    if state == "enter":
+        my_dict[name] = True
+    else:
+        del my_dict[name]
 
-login = []  # 들어온 사람
-logout = []  # 나간 사람
-
-for _ in range(n):
-    log = sys.stdin.readline().strip().split()
-
-    if log[1] == "enter":
-        login.append(log[0])  # 들어온 사람 기록
-    elif log[1] == "leave":
-        logout.append(log[0])  # 나간 사람 기록
-
-# 로그아웃에 없는 사람만 남기는 함수 정의
-def filter_remaining(person):
-    if person not in logout:
-        return person
-    return None
-
-# map을 사용해 필터링
-remaining = map(filter_remaining, login)
-
-# 결과를 정렬하고 None을 제외한 이름 출력
-for name in sorted(filter(None, remaining), reverse=True):
-    print(name)
+# 5. dict 내부의 key들을 사전 역순으로 정렬합니다.
+sorted_dict = sorted(my_dict.keys(), reverse=True)
+# 6. 원소를 출력합니다.
+for x in sorted_dict:
+    print(x)

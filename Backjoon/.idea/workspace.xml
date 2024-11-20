@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cb91ce6-6132-45e5-85fb-2c7c805f7176" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/7785. 회사에 있는 사람/회사에 있는 사람(map).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7785. 회사에 있는 사람/회사에 있는 사람(set).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10815. 숫자 카드/숫자 카드.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7785. 회사에 있는 사람/회사에 있는 사람(map).py" beforeDir="false" afterPath="$PROJECT_DIR$/7785. 회사에 있는 사람/회사에 있는 사람(map).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +53,7 @@
     "Python.분해합.executor": "Run",
     "Python.빠른 A+B.executor": "Run",
     "Python.수 정렬하기.executor": "Run",
+    "Python.숫자 카드.executor": "Run",
     "Python.스택.executor": "Run",
     "Python.영수증.executor": "Run",
     "Python.최소, 최대.executor": "Run",
@@ -63,14 +64,14 @@
     "Python.회사에 있는 사람.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/AlgorithmJourney/Backjoon/7785. 회사에 있는 사람",
+    "last_opened_file_path": "C:/AlgorithmJourney/Backjoon",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\AlgorithmJourney\Backjoon\7785. 회사에 있는 사람" />
       <recent name="C:\AlgorithmJourney\Backjoon" />
+      <recent name="C:\AlgorithmJourney\Backjoon\7785. 회사에 있는 사람" />
       <recent name="C:\AlgorithmJourney\PythonStudy" />
       <recent name="C:\AlgorithmJourney\pythonProject" />
     </key>
