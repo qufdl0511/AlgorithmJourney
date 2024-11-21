@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cb91ce6-6132-45e5-85fb-2c7c805f7176" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/10815. 숫자 카드/숫자 카드.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2747. 피보나치 수/피보나치 수.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7785. 회사에 있는 사람/회사에 있는 사람(map).py" beforeDir="false" afterPath="$PROJECT_DIR$/7785. 회사에 있는 사람/회사에 있는 사람(map).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +57,7 @@
     "Python.영수증.executor": "Run",
     "Python.최소, 최대.executor": "Run",
     "Python.큐 2.executor": "Run",
+    "Python.피보나치 수.executor": "Run",
     "Python.합.executor": "Run",
     "Python.행렬 덧셈.executor": "Run",
     "Python.회사에 있는 사람(map).executor": "Run",
