@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cb91ce6-6132-45e5-85fb-2c7c805f7176" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2747. 피보나치 수/피보나치 수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1904. 01타일/01타일.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.01타일.executor": "Run",
     "Python.adventurerGrouping.executor": "Run",
     "Python.coinSequence.executor": "Debug",
     "Python.combinations.executor": "Run",
