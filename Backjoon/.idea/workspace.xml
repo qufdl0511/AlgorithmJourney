@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cb91ce6-6132-45e5-85fb-2c7c805f7176" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1904. 01타일/01타일.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1920. 수 찾기/수 찾기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +53,7 @@
     "Python.분해합.executor": "Run",
     "Python.빠른 A+B.executor": "Run",
     "Python.수 정렬하기.executor": "Run",
+    "Python.수 찾기.executor": "Run",
     "Python.숫자 카드.executor": "Run",
     "Python.스택.executor": "Run",
     "Python.영수증.executor": "Run",
