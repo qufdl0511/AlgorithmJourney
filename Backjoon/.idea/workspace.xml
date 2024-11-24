@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cb91ce6-6132-45e5-85fb-2c7c805f7176" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1920. 수 찾기/수 찾기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2417. 정수 제곱근/정수 제곱근.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +57,7 @@
     "Python.숫자 카드.executor": "Run",
     "Python.스택.executor": "Run",
     "Python.영수증.executor": "Run",
+    "Python.정수 제곱근.executor": "Run",
     "Python.최소, 최대.executor": "Run",
     "Python.큐 2.executor": "Run",
     "Python.피보나치 수.executor": "Run",
