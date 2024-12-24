@@ -9,7 +9,7 @@ for _ in range(N-1):
     a,b = map(int,input().split())
     graph[a].append(b)
     graph[b].append(a)
-
+print("graph", graph)
 # 방문 여부, 방문 했으면 0 대신에 부모 노드 저장
 visited = [0]*(N+1)
 # 재귀함수로 구현
